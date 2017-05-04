@@ -84,6 +84,8 @@ check_sys(){
     fi
 }
 
+
+
 # Get version
 getversion(){
     if [[ -s /etc/redhat-release ]]; then
